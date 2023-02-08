@@ -1,0 +1,8 @@
+1) cd backend
+2) npm install
+3) npm i firebase-admin
+4) npm start
+
+backend now run on localhost:4000 
+
+(the Next.js frontend run on port 3000)
