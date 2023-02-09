@@ -42,6 +42,8 @@ app.post('/get_list',(req,res) => {
   });
 });
 
-app.listen(4000, () => {
-  console.log("App is listening to port 4000")
+app.listen(5000, () => {
+  console.log("App is listening to port 5000")
 });
+
+module.exports = app;

@@ -3,6 +3,9 @@
 3) npm i firebase-admin
 4) npm start
 
-backend now run on localhost:4000 
+backend now run on localhost:5000 
 
 (the Next.js frontend run on port 3000)
+
+deploy backend node.js to vercel ->
+https://shadowsmith.com/how-to-deploy-an-express-api-to-vercel
